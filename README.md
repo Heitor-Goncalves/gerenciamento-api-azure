@@ -3,6 +3,9 @@
 
 Este repositório documenta os principais conceitos, configurações e práticas aplicadas durante o desenvolvimento de uma API protegida e publicada com o **Azure API Management (APIM)** e **Azure Active Directory (Azure AD)**.
 
+![Captura de tela 2025-06-08 175409](https://github.com/user-attachments/assets/69ccc896-81e2-4629-878f-bac024469913)
+
+
 ---
 
 ## 🧱 1. Azure API Management (APIM)
